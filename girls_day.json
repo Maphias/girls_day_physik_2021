@@ -4,7 +4,7 @@
      "export":
         {
          "format":"json",
-         "target":"test1.json"
+         "target":"girls_day.json"
         }
     },
  "height":70,
