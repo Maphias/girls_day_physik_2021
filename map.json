@@ -955,16 +955,43 @@
          "tilewidth":32
         }, 
         {
+         "columns":13,
          "firstgid":721,
-         "source":"celianna_sciencelab.tsx"
+         "image":"tilesets\/celianna_sciencelab.png",
+         "imageheight":437,
+         "imagewidth":433,
+         "margin":0,
+         "name":"celianna_sciencelab",
+         "spacing":0,
+         "tilecount":169,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":27,
          "firstgid":890,
-         "source":"Labratory.tsx"
+         "image":"tilesets\/Labratory.png",
+         "imageheight":385,
+         "imagewidth":876,
+         "margin":0,
+         "name":"Labratory",
+         "spacing":0,
+         "tilecount":324,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":1214,
-         "source":"future-joy-tilee_750.tsx"
+         "image":"tilesets\/future-joy-tilee_750.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"future-joy-tilee_750",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":16,
