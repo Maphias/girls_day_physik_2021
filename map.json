@@ -978,6 +978,19 @@
          "tilecount":256,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":20,
+         "firstgid":1726,
+         "image":"tilesets\/school_tileb.png",
+         "imageheight":645,
+         "imagewidth":645,
+         "margin":0,
+         "name":"school_tileb",
+         "spacing":0,
+         "tilecount":400,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
