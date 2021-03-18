@@ -196,7 +196,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"Documents\/FS\/girls_day_physik_2021\/tilesets\/tilesets_deviant_milkian_1.png",
+         "image":"tilesets\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -921,7 +921,7 @@
         {
          "columns":8,
          "firstgid":257,
-         "image":"Documents\/FS\/girls_day_physik_2021\/tilesets\/floortileset.png",
+         "image":"tilesets\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -944,7 +944,7 @@
         {
          "columns":20,
          "firstgid":321,
-         "image":"Documents\/FS\/girls_day_physik_2021\/tilesets\/school_tileb.png",
+         "image":"tilesets\/school_tileb.png",
          "imageheight":645,
          "imagewidth":645,
          "margin":0,
@@ -957,7 +957,7 @@
         {
          "columns":13,
          "firstgid":721,
-         "image":"Documents\/FS\/girls_day_physik_2021\/tilesets\/celianna_sciencelab.png",
+         "image":"tilesets\/celianna_sciencelab.png",
          "imageheight":437,
          "imagewidth":433,
          "margin":0,
@@ -970,7 +970,7 @@
         {
          "columns":27,
          "firstgid":890,
-         "image":"Documents\/FS\/girls_day_physik_2021\/tilesets\/Labratory.png",
+         "image":"tilesets\/Labratory.png",
          "imageheight":385,
          "imagewidth":876,
          "margin":0,
@@ -983,7 +983,7 @@
         {
          "columns":16,
          "firstgid":1214,
-         "image":"Documents\/FS\/girls_day_physik_2021\/tilesets\/tilesets_deviant_milkian_1.png",
+         "image":"tilesets\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -996,7 +996,7 @@
         {
          "columns":20,
          "firstgid":1470,
-         "image":"Documents\/FS\/girls_day_physik_2021\/tilesets\/school_tileb.png",
+         "image":"tilesets\/school_tileb.png",
          "imageheight":645,
          "imagewidth":645,
          "margin":0,
