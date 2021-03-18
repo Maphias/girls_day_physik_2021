@@ -196,7 +196,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"tilesets_deviant_milkian_1.png",
+         "image":"tilesets\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -921,7 +921,7 @@
         {
          "columns":8,
          "firstgid":257,
-         "image":"floortileset.png",
+         "image":"tilesets\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -944,7 +944,7 @@
         {
          "columns":20,
          "firstgid":321,
-         "image":"school_tileb.png",
+         "image":"tilesets\/school_tileb.png",
          "imageheight":645,
          "imagewidth":645,
          "margin":0,
