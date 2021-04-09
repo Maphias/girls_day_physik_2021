@@ -135,7 +135,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":30,
          "x":0,
          "y":0
@@ -153,7 +153,7 @@
                  "value":"https:\/\/play.workadventu.re\/_\/global\/maphias.github.io\/girls_day_physik_2021\/cellar.json#cellar_start"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":30,
          "x":0,
          "y":0
